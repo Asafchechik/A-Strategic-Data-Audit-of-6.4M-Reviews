@@ -1,9 +1,6 @@
 # Decoding Steam: A Strategic Data Audit of 6.4M Reviews
 **Advanced Python Analytics | Big Data Pipeline & Market Intelligence**
 
-# Decoding Steam: Strategic Market Intelligence at Scale
-**Advanced Python Analytics | Big Data Audit & Consumer Insights**
-
 ---
 
 ## 🚀 Overview
