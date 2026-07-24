@@ -34,11 +34,15 @@ The primary objective was to establish critical performance benchmarks, quantify
 
 ## 💡 Strategic Insights & Market Realities
 
-Platform Approval Benchmark: Positive reviews account for 82.3% of the analyzed dataset. This indicates a high overall approval baseline across the platform, while games performing substantially below this level may require deeper analysis of product quality, technical issues, or audience fit.
-Winner-Takes-All Dynamics: The top 5% of games generated approximately 69.7% of all reviews. This highlights a highly concentrated market in which a relatively small share of titles captures most review activity.
-Helpful-Review Engagement by Sentiment: 24.0% of negative reviews were marked as helpful, compared with 12.7% of positive reviews. Negative reviews were therefore approximately 1.9 times more likely to receive a Helpful mark, suggesting that critical feedback may gain greater community visibility.
-Approval Rate by Review-Volume Tier: Average approval increased from approximately 71.7% in the low-volume group to 86.2% in the high-volume group, a difference of 14.5 percentage points. This is a descriptive relationship and does not prove that higher review volume causes higher satisfaction.
-Helpful-Review Concentration: The top 1% of games accounted for 35.3% of all reviews marked as helpful, showing that helpful-review activity is highly concentrated among a small share of titles.
+* **Platform Approval Benchmark**: Positive reviews account for **82.3%** of the analyzed dataset. This indicates a high overall approval baseline across the platform, while games performing substantially below this level may require deeper analysis of product quality, technical issues, or audience fit.
+
+* **Winner-Takes-All Dynamics**: The top **5% of games** generated approximately **69.7% of all reviews**. This highlights a highly concentrated market in which a relatively small share of titles captures most review activity.
+
+* **Helpful-Review Engagement by Sentiment**: **24.0% of negative reviews** were marked as helpful, compared with **12.7% of positive reviews**. Negative reviews were therefore approximately **1.9 times more likely** to receive a Helpful mark, suggesting that critical feedback may gain greater community visibility.
+
+* **Approval Rate by Review-Volume Tier**: Average approval increased from approximately **71.7%** in the low-volume group to **86.2%** in the high-volume group, a difference of **14.5 percentage points**. This is a descriptive relationship and does not prove that higher review volume causes higher satisfaction.
+
+* **Helpful-Review Concentration**: The top **1% of games** accounted for **35.3% of all reviews marked as helpful**, showing that helpful-review activity is highly concentrated among a small share of titles.
 
 ---
 
